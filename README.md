@@ -18,4 +18,5 @@ Exercícios realizados durante o estudo com os códigos de cada nível.
 
 ##### 7) [Usando o Controle de Fluxo: Else if - FizzBuzz] (https://github.com/glaucia86/quick-start-javascript-part-I/tree/master/Exerc%C3%ADcio%20-%2010)
 
+##### 8) [Controle de Fluxo e Operadores de Comparação - Desafio FizzBuzz mais detalhado] (https://github.com/glaucia86/quick-start-javascript-part-I/tree/master/Exerc%C3%ADcio%20-%2011)
 
