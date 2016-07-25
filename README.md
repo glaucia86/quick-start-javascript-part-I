@@ -8,4 +8,6 @@ Exercícios realizados durante o estudo com os códigos de cada nível.
 
 ##### 2) [Entendendo o Console] (https://github.com/glaucia86/quick-start-javascript-part-I/tree/master/Exerc%C3%ADcio%20-%205)
 
+##### 3) [Tipos de Dados Primitivos](https://github.com/glaucia86/quick-start-javascript-part-I/tree/master/Exerc%C3%ADcio%20-%206)
+
 
