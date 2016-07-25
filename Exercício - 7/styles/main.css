@@ -1,0 +1,27 @@
+body {
+    background: #292929;
+    color: #eaeaea;
+    padding: 0 16px;
+    font: 16px "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+caption {
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+em {
+    color: #ea6f05;   
+}
+
+td {
+    padding: 10px 10px 20px 10px;
+    max-width: 700px;
+}
+    td:first-of-type {
+        color: #dd5d00;
+    }
