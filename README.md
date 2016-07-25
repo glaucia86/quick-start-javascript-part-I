@@ -12,4 +12,6 @@ Exercícios realizados durante o estudo com os códigos de cada nível.
 
 ##### 4) [Variáveis] (https://github.com/glaucia86/quick-start-javascript-part-I/tree/master/Exerc%C3%ADcio%20-%207)
 
+##### 5) [Usando as Variáveis](https://github.com/glaucia86/quick-start-javascript-part-I/tree/master/Exerc%C3%ADcio%20-%208)
+
 
