@@ -7,11 +7,9 @@
  * 3. Visualizar: para inserir o resultado em um comentário depois da seleção. (Ctrl+L)
  */
 
-var a = 2;
-var b = 4;
+var myFavoriteMovie = prompt("Qual é o seu filme predileto?");
 
-var myName = "Glaucia Lemos";
-alert(myName);
+alert("Meu filme predileto é...: " + " " + myFavoriteMovie);
 
-
-
+var randomNumber = Math.random() * 5;
+alert(randomNumber);
